@@ -17,7 +17,7 @@ int main() {
 	
     // Required student information header
     cout << "Scripting and Programming - Applications C867;\t" << "Written in C++ on Visual Studio;" << endl;
-    cout << "Student ID: 001629826;\t" << "Name: Gabrielle Nordquist" << endl << endl;
+    cout << "Student ID: XXXXXXXX;\t" << "Name: Gabrielle Nordquist" << endl << endl;
 
 
     Roster* classRoster = new Roster(NUM_STUDENTS);
